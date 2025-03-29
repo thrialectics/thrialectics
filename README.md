@@ -1,6 +1,6 @@
-## Hello, I'm Marianne
+## Hello, I'm Marianne 🌱
 
-I'm a Sr. Project Manager with 10 years of career capital, currently building the skills I'll need to transition to tech. 🌱
+I'm a Sr. Project Manager with 10 years of career capital, currently building the skills I'll need to transition to tech.
 
 I'm an AI/LLM coding enthusiast and right now I'm most excited about building agentic AI systems with MCP tools. 
 
