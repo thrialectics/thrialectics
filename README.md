@@ -1,14 +1,14 @@
 ## Hello, I'm Marianne 🌱
 
-I'm a Sr. Project Manager with 10 years of career capital, currently building the skills I'll need to transition to tech.
+I'm a Sr. Project Manager with 10 years of career capital, currently building the skills I'll need to transition to work in AI/LLM tech.
 
-I'm an AI/LLM coding enthusiast and right now I'm most excited about building agentic AI systems with MCP tools. 
+Right now I'm most excited about building agents and LLM systems with MCP tools that help me do stuff I wanna do and make stuff I wanna make.
 
-I'm slowly building up my portfolio of projects: here is <a href="https://www.whichtechstack.com">Which Tech Stack?</a>, my first attempt at building a web app using AI coding assistants. I built this quiz because I was unclear about which stacks to use for different kinds of projects. Let me know if you find it useful!
+I'm slowly building up my portfolio of projects: here is <a href="https://www.whichtechstack.com">Which Tech Stack?</a>, my first attempt at building a web app using nothing but AI coding assistance. I built this quiz because I was unclear about which stacks to use for different kinds of projects. Turns out someone else was already building something like this, so here it gets filed as "portfolio project."
 
-While learning, I'm mostly finding ways to use Python and other scripting languages and frameworks to solve my own problems.
+While I'm still learning, I'm mostly finding ways to use Python and other scripting languages and frameworks to solve my own problems.
 
-You can connect with me on <a href = "https://x.com/thrialectic">Twitter</a> if you're open to inane ramblings, or you can contact me at 📫 thrialectics at gmail dot com. 
+You can connect with me on <a href = "https://x.com/thrialectics">Twitter</a> if you're open to inane ramblings, or you can contact me at 📫 thrialectics at gmail dot com. 
 <!--
 **thrialectics/thrialectics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
